@@ -1,4 +1,4 @@
-Análisis Exploratorio de Datos (EDA) de Airbnb CDMX
+## Análisis Exploratorio de Datos (EDA) de Airbnb CDMX
 
 ## Descripción General del Proyecto
 
@@ -45,4 +45,5 @@ El análisis se llevó a cabo siguiendo una estructura rigurosa para garantizar 
     * `numpy` 
     * `plotly` 
     * `geopandas`
+
 
