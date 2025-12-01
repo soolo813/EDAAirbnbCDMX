@@ -2,8 +2,7 @@ Análisis Exploratorio de Datos (EDA) de Airbnb CDMX
 
 ## Descripción General del Proyecto
 
-Este proyecto consiste en un Análisis Exploratorio de Datos (EDA) detallado utilizando un conjunto de datos públicos de listados de Airbnb en **Ciudad de México**. El objetivo principal es transformar datos crudos en información valiosa, identificar patrones, detectar anomalías y generar *insights* accionables que puedan ser utilizados por anfitriones, turistas o la propia plataforma.
-
+Este proyecto consiste en un Análisis Exploratorio de Datos (EDA) detallado utilizando un conjunto de datos públicos de listados de Airbnb en **Ciudad de México**. El objetivo principal es ayudar a un inversor ficticio a decidir dónde comprar una propiedad para alquilarla en Airbnb.
 ## Objetivos del Análisis
 
 1.  **Entendimiento del Mercado:** Determinar la distribución de precios y la oferta de alojamientos en las diferentes zonas de la ciudad.
@@ -46,3 +45,4 @@ El análisis se llevó a cabo siguiendo una estructura rigurosa para garantizar 
     * `numpy` 
     * `plotly` 
     * `geopandas`
+
