@@ -45,4 +45,4 @@ El análisis se llevó a cabo siguiendo una estructura rigurosa para garantizar 
     * `pandas` 
     * `numpy` 
     * `plotly` 
-    * "geopandas"
+    * `geopandas`
